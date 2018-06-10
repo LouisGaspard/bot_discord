@@ -1,0 +1,4 @@
+﻿Commands:
+
+!ftn		- Stats depuis le début.
+!ftn7		- Stats sur les 7 derniers jours.

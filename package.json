@@ -1,0 +1,26 @@
+{
+  "name": "bot_discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Louis Gaspard",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^3.0.5",
+    "discord.js": "^11.3.2",
+    "erlpack": "github:hammerandchisel/erlpack",
+    "ffmpeg": "0.0.4",
+    "fortnite": "^4.1.1",
+    "fortnitetracker-7days-stats": "^3.1.0",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "libsodium-wrappers": "^0.7.3",
+    "node-opus": "^0.3.0",
+    "request": "^2.87.0",
+    "uws": "^10.148.0",
+    "ytdl-core": "^0.20.4"
+  }
+}
